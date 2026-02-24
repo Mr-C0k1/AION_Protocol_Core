@@ -1,0 +1,12 @@
+# Mengabaikan folder dependensi yang berat
+node_modules/
+dist/
+build/
+
+# Mengabaikan file sistem
+.DS_Store
+Thumbs.db
+
+# Mengabaikan file log lokal
+*.log
+aion_nodes/
